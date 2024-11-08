@@ -10,7 +10,7 @@ Center for Security and Emerging Technology (2024), Population based on various 
 - **AI_scholars.pdf** 
 ## Usage
 
-To view the map layout, click [here](https://svelkus.github.io/AI_scholars/AI_scholars.pdf) to see the hosted file.
+To view the map layout, click [AI Scholars Map](https://svelkus.github.io/30dayMapChallenge/AI_scholars.pdf) to see the hosted file.
 
 ## About
 
